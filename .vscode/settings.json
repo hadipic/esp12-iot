@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "zshrc": "shellscript",
+        "config.h": "c",
+        "esp_system.h": "c",
+        "*.tcc": "cpp",
+        "event_groups.h": "c",
+        "stat.h": "c",
+        "iosfwd": "c",
+        "relay.h": "c",
+        "typeinfo": "c",
+        "mqtt_client.h": "c",
+        "random": "c",
+        "limits": "c"
+    },
+    "idf.adapterTargetName": "esp8266",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "board/esp32-wrover.cfg"
+    ]
+}
